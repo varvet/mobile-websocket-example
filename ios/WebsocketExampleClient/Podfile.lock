@@ -1,0 +1,10 @@
+PODS:
+  - SocketRocket (0.3.1-beta2)
+
+DEPENDENCIES:
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  SocketRocket: 7ac946bcce46287a791dfff3c1f8daa692821dae
+
+COCOAPODS: 0.29.0
