@@ -1,1 +1,3 @@
-gem "em-websocket"
+source 'https://rubygems.org'
+
+gem 'em-websocket'
