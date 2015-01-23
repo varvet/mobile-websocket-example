@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     em-websocket (0.4.0)
       eventmachine (>= 0.12.9)
